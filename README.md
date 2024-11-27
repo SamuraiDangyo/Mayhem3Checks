@@ -1,9 +1,8 @@
+![logo](https://github.com/user-attachments/assets/b7f182b0-5756-4989-8b36-72162795f951)
+
 # Mayhem3Checks
 
 Linux Xboard 3 and 5 checks Chess Engine.
-
-![logo](https://github.com/user-attachments/assets/b7f182b0-5756-4989-8b36-72162795f951)
-
 
 ## Supported commands
 
