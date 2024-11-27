@@ -2,7 +2,7 @@
 
 # Mayhem3Checks
 
-Linux Xboard 3 and 5 checks Chess Engine.
+Linux Xboard 3 and 5 checks Chess Engine
 
 ## Supported commands
 
